@@ -1,5 +1,12 @@
 def repeat_deco(n=1):
-   # YOUR CODE HERE
+    def decorator(func):
+        def wrapper(*args, **kwargs):
+            for I in range(n):
+                result = func(*args, **kwargs)
+            return result
+        return wrapper
+    return decorator
+   
 
 code = []
 while data := input():
