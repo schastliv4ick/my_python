@@ -18,7 +18,7 @@ class Circle:
 
 class SemiCircle(Circle):
    def calculate_area(self):
-       # YOUR CODE HERE
+       return super().calculate_area()/2
   
 code = []
 while data := input():
