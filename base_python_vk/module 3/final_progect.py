@@ -22,7 +22,7 @@ class SquareWithMixin(CalculatePerimeterMixin, Square):
        return self.a == other.a
 
    def __gt__(self, other):
-       return self.a >= other.a
+       return self.a > other.a
 
    def __add__(self, other):
        return self.calculate_area() + other.calculate_area()
