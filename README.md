@@ -2,6 +2,7 @@
 This repository is created to track my progress in mastering Python, completing courses, and diving into its intricacies.
 
 ### Repository Structure
+```
 base_python_vk/
 ├── module 1/
 │   └── (introduction)
@@ -14,3 +15,4 @@ base_python_vk/
 
 deep_learning_python_vk/
 └── (empty for now — advanced topics and projects will go here)
+```
