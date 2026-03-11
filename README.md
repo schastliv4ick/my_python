@@ -1,4 +1,18 @@
-Данный репозиторий создан для отслеживания моего прогресса в освоении языка python, прохождения курсов и углубления в его тонкости.
+## Python Learning Progress
+This repository is created to track my progress in mastering Python, completing courses, and diving into its intricacies.
 
-Структура репозитория:
-python -m venv venv
+### Repository Structure
+```
+base_python_vk/
+├── module 1/
+│   └── (introduction)
+├── module 2/
+│   └── (functions, generators, decorators, scopes)
+├── module 3/
+│   └── (OOP, magic methods)
+└── module 4/
+    └── (built-in modules)
+
+deep_learning_python_vk/
+└── (empty for now — advanced topics and projects will go here)
+```
