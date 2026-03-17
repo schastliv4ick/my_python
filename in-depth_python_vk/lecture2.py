@@ -1,0 +1,3 @@
+class Vector:
+    def __init__(self, x: int, y: int) -> None:
+        pass
